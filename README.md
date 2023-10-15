@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Backend projects with NodeJs and Kotlin running on top of Spring Boot Framework.
+- 🌱 Learning Android, MVVM Architecture and every day a little bit more about technology and their awesome things.
+- 💬 You can Ask me about almost all things related to babies and child (I've worked as Child Care and Professor Assistant for about 9 years)
+
 <!--
 **kiaragy/kiaragy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
